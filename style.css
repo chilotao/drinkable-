@@ -5,6 +5,10 @@
     font-family: "Montserrat", sans-serif;
 }
 
+.body {
+    overflow-y: hidden;
+}
+
 .drinkable {
     margin: auto 0;
     width: 100%;
